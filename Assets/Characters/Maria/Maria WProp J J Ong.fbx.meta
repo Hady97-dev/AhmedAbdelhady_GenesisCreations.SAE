@@ -13,17 +13,17 @@ ModelImporter:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: maria_diffuse
-    second: {fileID: 2800000, guid: 097c32ff841b13b40ad6284c22f93a49, type: 3}
+    second: {fileID: 2800000, guid: eb91aecbc76a3db44b5365ef31cdd8d2, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: maria_normal
-    second: {fileID: 2800000, guid: 5544f9368de2a414da3db0e5b9726c35, type: 3}
+    second: {fileID: 2800000, guid: 837ec87583f080045bf1070d594f7c8f, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: maria_specular
-    second: {fileID: 2800000, guid: eb756e633b0066e47a76199475673456, type: 3}
+    second: {fileID: 2800000, guid: 5dd64dae56b5d8745b299bb13224a568, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
